@@ -131,6 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pos-pd-clusterizacao/
 
 # Spyder project settings
 .spyderproject
